@@ -10,4 +10,4 @@ It contains two folders.
 ![Home](./PageImage/Home.PNG)
 
 ### Add Page
-![Home](./PageImage/Add.PNG)
+![Add](./PageImage/Add.PNG)
